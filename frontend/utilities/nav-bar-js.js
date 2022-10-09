@@ -1,4 +1,4 @@
-function myFunction() {
+function burgerFun() {
     var x = document.getElementById("menu");
     if (x.className === "menu") {
         x.className += " responsive";
