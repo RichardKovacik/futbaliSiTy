@@ -14,30 +14,26 @@
 <div class="content">
     <div class="card">
         <h1><a href="../articles/clanok-1.php">Clanok 1</a></h1>
-        <p>
-            dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd dgdg
-        </p>
+        <p> dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd dgdg </p>
     </div>
     <div class="card">
         <h1><a href="#cestaNaClanok2">Clanok 2</a></h1>
-        <p><a href="#cestaNaClanok2">dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd dgdg </a>
-        </p>
+        <p> dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd dgdg</p>
     </div>
     <div class="card">
         <h1><a href="#cestaNaClanok3">Clanok 3</a></h1>
-        <p><a href="#cestaNaClanok3">dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd dgdg </a>
-        </p>
+        <p>dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd dgdg</p>
     </div>
     <div class="card">
-        <h1>Clanok 4</h1>
+        <h1><a href="#cestaNaClanok4">Clanok 4</a></h1>
         <p>dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd gdg dgd ggd</p>
     </div>
     <div class="card">
-        <h1>Clanok 5</h1>
+        <h1><a href="#cestaNaClanok5">Clanok 5</a></h1>
         <p>dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd dgdg jfjfh</p>
     </div>
     <div class="card">
-        <h1>Clanok 5</h1>
+        <h1><a href="#cestaNaClanok6">Clanok 6</a></h1>
         <p>dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd gdgd</p>
     </div>
 </div>

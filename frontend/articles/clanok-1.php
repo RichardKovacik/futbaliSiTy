@@ -6,10 +6,10 @@
     <link rel="stylesheet" href="clanok1.css">
     <script src="../utilities/nav-bar-js.js"></script>
 </head>
+<body>
 <header>
     <?php include '../utilities/nav-bar.php';?>
 </header>
-<body>
 <article class="article">
     <h1>Postup este nie je strateny</h1>
     <img src="../resources/slovakia-fotball.avif" class="obrazok" alt="Obrazok">
