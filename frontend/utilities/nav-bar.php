@@ -27,6 +27,9 @@
         <li><a href="#d">Moje Timy</a></li>
         <li><a href="#d">Prihlasenie</a></li>
         <li><a href="#d">Registracia</a></li>
+        <li><a href="#">BundesLiga</a></li>
+        <li><a href="#">Fortuna liga</a></li>
+        <li><a href="#">Premier League</a></li>
     </ul>
 </nav>
 </html>

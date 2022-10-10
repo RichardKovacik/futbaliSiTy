@@ -62,6 +62,10 @@ body{
     text-decoration: none;
     text-transform: uppercase;
 }
+.menu li:nth-child(7), .menu li:nth-child(8),.menu li:nth-child(9) {
+    display: none;
+
+}
 .menu li:first-child {
     display: none;
 }
@@ -95,7 +99,7 @@ body{
 }
 
 .content{
-    padding-top: 70px;
+    padding-top: 30px;
     max-width: 800px;
     margin: auto;
     text-align: left;
@@ -124,11 +128,15 @@ body{
         right: 0;
         top: 0;
     }
-    .menu.responsive li{
+    .menu.responsive li {
     float: none;
     display: block;
     text-align: left;
-}
+    }
+    .menu.responsive li:nth-child(3) {
+        display: none;
+
+    }
 }
 
 
