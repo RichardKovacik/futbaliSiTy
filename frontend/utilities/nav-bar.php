@@ -18,7 +18,7 @@
             <div class="drop">
                 <button class="drpbtn">Ligy</button>
                 <div class="dropdown-content">
-                    <a href="#">BundesLiga</a>
+                    <a href="../ligy/bundesliga.php">BundesLiga</a>
                     <a href="#">Fortuna liga</a>
                     <a href="#">Premier League</a>
                 </div>
@@ -27,7 +27,7 @@
         <li><a href="#d">Moje Timy</a></li>
         <li><a href="#d">Prihlasenie</a></li>
         <li><a href="#d">Registracia</a></li>
-        <li><a href="#">BundesLiga</a></li>
+        <li><a href="../ligy/bundesliga.php">BundesLiga</a></li>
         <li><a href="#">Fortuna liga</a></li>
         <li><a href="#">Premier League</a></li>
     </ul>

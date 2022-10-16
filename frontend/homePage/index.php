@@ -14,7 +14,8 @@
 <div class="content">
     <div class="card">
         <h1><a href="../articles/clanok-1.php">Clanok 1</a></h1>
-        <p> dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd dgdg </p>
+        <p> dadadaf sfsfs sfsfsf sfsfsfs sfsffffffffffthf yutyut dgdg dgdg dgdgdgd dgdg
+        Zatial clanok 1 funguje.</p>
     </div>
     <div class="card">
         <h1><a href="#cestaNaClanok2">Clanok 2</a></h1>
